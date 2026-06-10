@@ -77,14 +77,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sdeepika-2606&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</p>
-
----
-
 ## 💼 Experience
 
 **🔐 Cyber Security Intern — Elevate Labs** &nbsp;|&nbsp; June – July 2025 &nbsp;|&nbsp; Remote
@@ -155,7 +147,7 @@
   - Web Challenges · SQL Injection · XSS · SSRF
   - Binary Exploitation · Buffer Overflow · ROP Chains
   - Reverse Engineering · Ghidra · GDB
-  - 🔑 **Cryptography** — RSA · AES · Hash Cracking · Encoding/Decoding · XOR
+- 🔑 **Cryptography** — RSA · AES · Hash Cracking · Encoding/Decoding · XOR
 - ☁️ **Cloud Security** — AWS GuardDuty · IAM Hardening · CloudTrail · Security Hub
 - 🐳 **Container Security** — Docker Hardening · Kubernetes Basics · Image Scanning
 
