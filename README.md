@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student+%7C+Ethical+Hacker;CTF+Player+%E2%80%94+Flaggers+United+%F0%9F%9A%A9;Cloud+%26+DevOps+%7C+AWS+%7C+Docker+%7C+Terraform;Vulnerability+Analysis+%7C+Firewall+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Student+%7C+Ethical+Hacker;Core+Team+Member+%E2%80%94+Flaggers+United+%F0%9F%9A%A9;Network+Security+%7C+Windows+Forensics;Cloud+%26+DevOps+%7C+AWS+%7C+Docker+%7C+Terraform;Vulnerability+Analysis+%7C+Firewall+Development" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 ## 🛡️ About Me
 
 - 🎓 &nbsp;Pursuing **B.E CSE (Cybersecurity)** at Jerusalem College of Engineering (2023–2027) — CGPA **8.06**
-- 🔐 &nbsp;Passionate about **Ethical Hacking**, Penetration Testing, and Defensive Security
+- 🔐 &nbsp;Passionate about **Ethical Hacking**, NetworK Security and Defensive Security
 - 🚩 &nbsp;Core Team Member — **Flaggers United** (CTF Team)
 - ☁️ &nbsp;Hands-on with **AWS, Docker, Terraform, Jenkins** and CI/CD pipelines
 - 📍 &nbsp;Chennai, Tamil Nadu, India
