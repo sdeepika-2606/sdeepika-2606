@@ -58,17 +58,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sdeepika-2606&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=8" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdeepika-2606&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&border_radius=8" alt="Top Languages"/>
-</p>
-
----
 
 ## 📈 Recent GitHub Activity
 
